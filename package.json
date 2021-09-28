@@ -5,12 +5,12 @@
   "main": "app.js",
   "homepage": "https://Andrew61-20.github.io/Interactive-Table",
   "scripts": {
-    "start": "cross-env NODE_ENV=production node app.js",
+    "start": "node app.js",
     "server": "nodemon app.js",
     "client": "npm run start --prefix client",
     "client:install": "npm install --prefix client",
     "client:build": "npm run build --prefix client",
-    "dev": "cross-env NODE_ENV=development concurrently \"npm run server\" \"npm run client\"",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
     "predeploy": "npm run client:build",
     "deploy": "gh-pages -b master -d client:build"
   },
@@ -28,7 +28,6 @@
   },
   "devDependencies": {
     "concurrently": "^6.2.1",
-    "cross-env": "^7.0.3",
     "nodemon": "^2.0.12"
   }
 }
