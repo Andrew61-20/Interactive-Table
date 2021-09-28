@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Interactive-Table/static/js/main.28372944.chunk.js",
+    "main.js.map": "/Interactive-Table/static/js/main.28372944.chunk.js.map",
+    "runtime-main.js": "/Interactive-Table/static/js/runtime-main.2525bdde.js",
+    "runtime-main.js.map": "/Interactive-Table/static/js/runtime-main.2525bdde.js.map",
+    "static/css/2.f2512455.chunk.css": "/Interactive-Table/static/css/2.f2512455.chunk.css",
+    "static/js/2.cc4778de.chunk.js": "/Interactive-Table/static/js/2.cc4778de.chunk.js",
+    "static/js/2.cc4778de.chunk.js.map": "/Interactive-Table/static/js/2.cc4778de.chunk.js.map",
+    "index.html": "/Interactive-Table/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/Interactive-Table/static/css/2.f2512455.chunk.css.map",
+    "static/js/2.cc4778de.chunk.js.LICENSE.txt": "/Interactive-Table/static/js/2.cc4778de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2525bdde.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.cc4778de.chunk.js",
+    "static/js/main.28372944.chunk.js"
+  ]
+}
